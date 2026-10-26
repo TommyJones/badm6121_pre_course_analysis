@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Survey Intelligence Dashboard",
+  "description": "Interactive presentation dashboard for Canvas student surveys with distribution analytics, classroom presenter mode, and Gemini-powered thematic synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
